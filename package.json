@@ -1,0 +1,23 @@
+{
+  "name": "logs",
+  "version": "1.0.2",
+  "description": "beta version of function to get logs of a javascript script",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamaerus/logs.git"
+  },
+  "keywords": [
+    "logs",
+    "javascript"
+  ],
+  "author": "Francesco Serangeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamaerus/logs/issues"
+  },
+  "homepage": "https://github.com/williamaerus/logs"
+}
